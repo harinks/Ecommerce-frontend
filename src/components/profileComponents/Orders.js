@@ -44,7 +44,7 @@ const Orders = (props) => {
                       key={order._id}
                     >
                       <td>
-                        <a href={`/order/${order._id}`} className="link">
+                        <a href={`https://incomparable-sorbet-5e4924.netlify.app/order/${order._id}`} className="link">
                           {order._id}
                         </a>
                       </td>
