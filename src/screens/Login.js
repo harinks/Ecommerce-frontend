@@ -59,7 +59,7 @@ const Login = ({ location, history }) => {
           </p>
         </form>
         <p>For Admin Login</p>
-        <a href="https://remarkable-frangollo-4f7b64.netlify.app/" target="_blank" rel="noopener noreferrer"><button>Click Here</button></a>
+        <a href="https://ecommerce-store-admindashboard.netlify.app/" target="_blank" rel="noopener noreferrer"><button>Click Here</button></a>
       </div>
     </>
   );
